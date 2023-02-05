@@ -1,8 +1,6 @@
 # WebRTE
-Open-Source WebRTE Payload Coded and Written By GOLDEN
-Note: This source code belongs by full to:
-[golden](https://github.com/jogolden)
+Open-Source WebRTE Payload Coded By [golden](https://github.com/jogolden) For PS4 5.05 Firmware
 
-Please Do not delete Golden Credits if you gonna modified it.
+Please Do not delete [golden](https://github.com/jogolden) Credits if you gonna modified it.
 
 
